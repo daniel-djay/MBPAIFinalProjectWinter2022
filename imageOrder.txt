@@ -1,0 +1,10 @@
+Image:
+1 T1w-Gd
+2 T1w
+3 T2w-FLAIR
+4 T2w
+
+Mask:
+1 Enhancing tumour
+2 Edema
+3 Non-enhancing tumour
